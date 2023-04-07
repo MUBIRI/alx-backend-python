@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Task 0"""
+"""Task 0 Async Generator"""
 import asyncio
-import typing
+from typing import Generator
 import random
 
 
